@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSMB / APCSP"
+title                    : "CSMB/ArcGis"
 title_separator          : "-"
 name                     : &name "Darryl Sanders"
 description              : &description "This is a sample student portfoio for AP Computer Science Principles"
